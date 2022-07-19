@@ -8,7 +8,8 @@ import { AuthenticatedContext } from '../../Context/AuthenticatedContext';
 function Navbar() {
     const {isAuthenticated, setIsAuthenticated,setCountAccount,setCountTransaction}= useContext(AuthenticatedContext);
     const handleClick = () => {
-        // const auth = getAuth();
+        
+
         signOut(auth).then(() => {
             // Sign-out successful.
             toast.success('User has been logged Out!', {
