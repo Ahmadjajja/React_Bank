@@ -9,7 +9,6 @@
 * The Bank-App also allows users to delete their account, in case they no longer wish to use the platform. 
 * The application provides users with the ability to view all their existing accounts, providing a complete overview of their financial situation.
 
-Overall, the Bank-App provides a comprehensive and user-friendly platform for managing one's financial activities, with the added benefits of security and convenience provided by Firebase's robust authentication and database features.
 ## How to run ?
 #### Run First
 ```javascript
