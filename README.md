@@ -10,6 +10,11 @@
 * The application provides users with the ability to view all their existing accounts, providing a complete overview of their financial situation.
 
 Overall, the Bank-App provides a comprehensive and user-friendly platform for managing one's financial activities, with the added benefits of security and convenience provided by Firebase's robust authentication and database features.
+## How to run ?
+```
+Run First : npm i
+Run Second : npm start
+```javascript
 
 ### 1- Landing Page
 ![Landing Page](https://drive.google.com/uc?export=view&id=19XBNubWZF4jQgFx9UClyUrBYnddZPYZJ) <br />
