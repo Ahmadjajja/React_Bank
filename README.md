@@ -20,7 +20,7 @@
 ### 10- Transactions
 ![Transactions](https://drive.google.com/uc?export=view&id=1c4FJ7KTjVxkw3qLw2FtTOOU9mFQg67-l) <br />
 ### 11- View Transaction
-![View Transaction](https://drive.google.com/uc?export=view&id=1WlnGSXCgJezjskNzTW-OjLi3ocd2vFAo) <br />
+![View Transaction](https://drive.google.com/uc?export=view&id=1WlnGSXCgJezjskNzTW-OjLi3ocd2vFAo) <br /> <br />
 **The Bank-App is a full-stack web application** built with **React JS** and **Firebase**, which aims to provide users with a secure and convenient way to manage their banking needs. The application includes a range of functionalities, such as-
 * Authentication with email and password, as well as login via social media accounts like Google, Facebook, and Github.
 
