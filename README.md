@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 display="block">Bank Application</h1> 
+  <h1 align="center">Bank Application</h1>
 </p>
 
 **The Bank-App is a full-stack web application** built with **React JS** and **Firebase**, which aims to provide users with a secure and convenient way to manage their banking needs. The application includes a range of functionalities, such as-
