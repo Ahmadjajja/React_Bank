@@ -1,7 +1,7 @@
 <p align="center">
   <h1>Bank Application</h1> 
 </p>
-**The Bank-App is a full-stack web application** built with **React JS** and **Firebase**, which aims to provide users with a secure and convenient way to manage their banking needs. The application includes a range of functionalities, such as-
+**The Bank-App is a full-stack web application** built with **React JS** and __Firebase__, which aims to provide users with a secure and convenient way to manage their banking needs. The application includes a range of functionalities, such as-
 * Authentication with email and password, as well as login via social media accounts like Google, Facebook, and Github.
 
 * Once authenticated, users are taken to the dashboard, which is the central hub for all banking activities. The dashboard provides users with access to an ATM machine-like interface, where they can perform basic banking transactions such as withdrawing and depositing money.
